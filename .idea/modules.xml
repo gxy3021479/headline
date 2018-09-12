@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/WAMP/wamp/www/PHP/.idea/PHP.iml" filepath="D:/WAMP/wamp/www/PHP/.idea/PHP.iml" />
+      <module fileurl="file://D:/优逸客/node.js阶段/git/.idea/git.iml" filepath="D:/优逸客/node.js阶段/git/.idea/git.iml" />
+      <module fileurl="file://D:/优逸客/node.js阶段/mysql增删改查/.idea/mysql增删改查.iml" filepath="D:/优逸客/node.js阶段/mysql增删改查/.idea/mysql增删改查.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/news.iml" filepath="$PROJECT_DIR$/.idea/news.iml" />
+      <module fileurl="file://D:/WAMP/wamp/www/php1/.idea/php1.iml" filepath="D:/WAMP/wamp/www/php1/.idea/php1.iml" />
+      <module fileurl="file://D:/WAMP/wamp/www/test/.idea/test.iml" filepath="D:/WAMP/wamp/www/test/.idea/test.iml" />
+      <module fileurl="file://D:/WAMP/wamp/www/master/.idea/wui1805.iml" filepath="D:/WAMP/wamp/www/master/.idea/wui1805.iml" />
+      <module fileurl="file://D:/WAMP/wamp/www/create/.idea/增删改查.iml" filepath="D:/WAMP/wamp/www/create/.idea/增删改查.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1269a6f-58a3-458a-98aa-8e6b81271fd9" name="默认的" comment="">
+      <change beforePath="D:/WAMP/wamp/www/create/admin_footer.html" beforeDir="false" afterPath="D:/WAMP/wamp/www/create/admin_footer.html" afterDir="false" />
+      <change beforePath="D:/优逸客/node.js阶段/git/index.js" beforeDir="false" afterPath="D:/优逸客/node.js阶段/git/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="wechart.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller/wechart/wechart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wechart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/wechart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wechart.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/wechart.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/news.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Document</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/WAMP/wamp/www/create" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/WAMP/wamp/www/PHP/dis.php" />
+        <option value="D:/WAMP/wamp/www/PHP/addcon.php" />
+        <option value="D:/WAMP/wamp/www/wui1805-master/index.php" />
+        <option value="D:/WAMP/wamp/www/master/db.php" />
+        <option value="D:/WAMP/wamp/www/master/index.php" />
+        <option value="D:/WAMP/wamp/www/php1/sta.sql" />
+        <option value="D:/WAMP/wamp/www/PHP/stu.sql" />
+        <option value="D:/WAMP/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf" />
+        <option value="C:/Windows/System32/drivers/etc/hosts" />
+        <option value="$PROJECT_DIR$/web/wechart.php" />
+        <option value="$PROJECT_DIR$/database/wechart.sql" />
+        <option value="$PROJECT_DIR$/controller/wechart/wechart.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/task/node_modules" />
+    <handled-path value="D:/优逸客/node.js阶段/git/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/task/package.json" />
+      <path value="D:/WAMP/wamp/www/create/package.json" />
+      <path value="D:/优逸客/node.js阶段/git/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/@types/node/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/ajv/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/asn1/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/assert-plus/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/asynckit/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/aws-sign2/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/aws4/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/bignumber.js/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/boolbase/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/caseless/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/cheerio/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/co/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/combined-stream/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/core-util-is/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/css-select/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/css-what/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/dashdash/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/delayed-stream/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/dom-serializer/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/domelementtype/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/domhandler/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/domutils/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/ecc-jsbn/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/entities/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/extend/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/extsprintf/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/fast-deep-equal/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/forever-agent/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/form-data/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/fs/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/getpass/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/har-schema/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/har-validator/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/htmlparser2/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/http-signature/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/inherits/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/is-typedarray/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/isarray/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/isstream/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/jsbn/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/json-schema-traverse/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/json-schema/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/json-stringify-safe/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/jsprim/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/lodash/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/mime-db/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/mime-types/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/mysql/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/nth-check/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/oauth-sign/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/parse5/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/performance-now/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/process-nextick-args/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/psl/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/punycode/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/qs/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/readable-stream/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/request/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/safe-buffer/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/safer-buffer/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/sqlstring/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/sshpk/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/string_decoder/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/tough-cookie/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/tunnel-agent/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/tweetnacl/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/util-deprecate/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/uuid/package.json" />
+      <path value="D:/优逸客/node.js阶段/mysql增删改查/node_modules/verror/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="981" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="wechart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/WAMP/wamp/www/php1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\news\database" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1269a6f-58a3-458a-98aa-8e6b81271fd9" name="默认的" comment="" />
+      <created>1536559790528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536559790528</updated>
+      <workItem from="1536559810605" duration="2412000" />
+      <workItem from="1536580881005" duration="102000" />
+      <workItem from="1536583391696" duration="2763000" />
+      <workItem from="1536588318072" duration="1875000" />
+      <workItem from="1536632006269" duration="10684000" />
+      <workItem from="1536673334232" duration="3515000" />
+      <workItem from="1536712769668" duration="5882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27233000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/index/news.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/index/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/index/news.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/admin/admin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/index/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/admin.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/优逸客/node.js阶段/mysql增删改查/mysq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/优逸客/node.js阶段/git/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1502">
+          <caret line="207" column="17" lean-forward="true" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/优逸客/node.js阶段/git/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/del.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/edit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/dis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/del.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/addcon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/create/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/create/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/create/include.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/add.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/edit.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/bin/apache/apache2.4.9/conf/httpd.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="209" column="19" selection-start-line="209" selection-start-column="11" selection-end-line="209" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/addcon.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/create/summary.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/editcon.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/master/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/test/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/test/text.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/php1/ajax2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/php1/ajkx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780" />
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/php1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/php1/increase.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/php1/sta.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/ku.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/new.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/WAMP/wamp/www/PHP/stu.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/category.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Windows/System32/drivers/etc/hosts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/WAMP/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/index/news.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/db.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/news.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/wechart.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/wechart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/wechart/wechart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

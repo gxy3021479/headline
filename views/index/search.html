@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/assets/index/css/search.css">
+    <link rel="stylesheet" href="/assets/index/css/rem.css">
+    <script src="https://cdn.bootcss.com/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/assets/index/js/rem1334.js"></script>
+    <title>搜索</title>
+</head>
+<body>
+<div class="header">
+    <div class="abs-m">
+        <a href="#" class="refresh-title">搜索</a>
+    </div>
+    <div class="abs-l">
+        <a href="/index.php?c=news&m=index" class="msg-box">
+            <div class="left"></div>
+        </a>
+    </div>
+</div>
+<div class="search">
+    <div class="search_content">
+        <!--<div class="left-1">-->
+            <!--<img src="../web/assets/index/img/iphone-logo.png" alt="">-->
+        <!--</div>-->
+        <input type="text" class="input" placeholder="请输入搜索关键词">
+    </div>
+</div>
+<ul id="ul">
+    <?php foreach($relauts as $k=>$v){?>
+    <a href="<?php echo $v['url']?>" style="text-decoration: none;color: black;">
+    <li>
+        <?php echo $v['title']?>
+    </li>
+    </a>
+    <?php }?>
+</ul>
+<button class="jiazai">加载更多</button>
+<!--<div class="search">-->
+    <!--<input type="text" class="input">-->
+    <!--<button style="line-height: 0.4rem" class="searchlist">搜索</button>-->
+<!--</div>-->
+    <!--<ul id="ul">-->
+        <!--<?php foreach($relauts as $k=>$v) { ?>-->
+            <!--<li><?php echo $v['title']?></li>-->
+        <!--<?php } ?>-->
+    <!--</ul>-->
+<!--<button class="jiazai">加载更多</button>-->
+<script>
+    $(function () {
+        let page = 1;
+
+        $('.jiazai').on('click',function () {
+            $.ajax({
+                url:'/index.php',
+                data:{
+                    c:'news',
+                    m:'searchList',
+                    keyword:'<?php echo $keyword?>',
+                    page:page+1
+                },
+                success:function (data) {
+                    page=page+1;
+                    data=JSON.parse(data);
+                    data.forEach(v => {
+                        $('<li><a href='+ v.url +'>'+v.title+'</a></li>').appendTo('#ul');
+                    })
+                }
+            })
+        })
+    })
+
+
+    $(function () {
+        $('.input').on('change',function () {
+            let keyword = $('.input').val();
+            $.ajax({
+                url:'/index.php',
+                data:{
+                    c:'news',
+                    m:'searchList',
+                    keyword:keyword
+                },success:function (data) {
+                    data=JSON.parse(data)
+                    $('#ul').html('');
+                    data.forEach(v=>{
+                        $('<li><a href='+ v.url +'>'+v.title+'</a></li>').appendTo('#ul');
+                    })
+                }
+            })
+        })
+    })
+</script>
+</body>
+</html>
