@@ -40,8 +40,8 @@ CREATE TABLE IF NOT EXISTS `wechart` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-INSERT INTO `wechart` (`users_name`, `user_avator`,`content`,`publish_time`,`publish_adresss`,`url`) VALUES
-('锅巴','http://bpic.588ku.com/element_origin_min_pic/18/06/10/84e1d2519ab682decbbfc7c6f9349bd7.jpg','沉默年代或许不该，太遥远的相爱','2018-09-02 20:40:01','学府街凯通大厦','http://bpic.588ku.com/back_pic/05/61/29/345b4822ac5d5dc.jpg!r850/fw/800;http://bpic.588ku.com/back_pic/05/64/65/365b68056a7bf4b.jpg!r850/fw/800');
+INSERT INTO `wechart` (`users_name`, `user_avator`,`content`,`publish_adresss`,`url`) VALUES
+('锅巴','http://bpic.588ku.com/element_origin_min_pic/18/06/10/84e1d2519ab682decbbfc7c6f9349bd7.jpg','沉默年代或许不该，太遥远的相爱','学府街凯通大厦','http://bpic.588ku.com/back_pic/05/61/29/345b4822ac5d5dc.jpg!r850/fw/800;http://bpic.588ku.com/back_pic/05/64/65/365b68056a7bf4b.jpg!r850/fw/800');
 
 COMMIT;
 
